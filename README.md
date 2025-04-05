@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm LouwrensO
 
-<!--
-**LouwrensO/LouwrensO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer who enjoys building practical tools to solve everyday problems. I focus on automation, file handling, and beginner-friendly AI tools.
 
-Here are some ideas to get you started:
+### 🛠 Projects I've Built
+- 🧠 [English Chatbot](https://github.com/LouwrensO/English-chatbot) – A web-based chatbot for English learners using GPT and Flask
+- 🖼 [Image Resizer](https://github.com/LouwrensO/image-resizer) – Batch resize images using Python and Pillow
+- 🗂 [File Renamer Tool](https://github.com/LouwrensO/File-renamer-tool) – Rename files in bulk with clean formatting
+- 📊 [CSV Cleaner](https://github.com/LouwrensO/CSV-Cleaner) – Clean and format messy CSV files
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech I Use
+- Python 🐍
+- Flask 🌐
+- Git & GitHub 🧠
+- HTML/CSS 🖌
+- APIs, automation scripts, and small tools
+
+### 📫 Contact Me
+- GitHub: [@LouwrensO](https://github.com/LouwrensO)
+  
+
+---
+
+> “Code is like magic you can learn.” ✨
